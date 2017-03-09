@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,[j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B],C,_(D,E,F,G,H,I,J,_(K,L,M,N,O,_(P,Q,R,S),T,null,U,N,V,N,W,X,Y,null,Z,ba,bb,bc,bd,be,bf,ba),bg,_(),bh,_(),bi,_(bj,[])),bk,_(),bl,_());}; 
+var b="url",c="devicessettings.html",d="generationDate",e=new Date(1488195164822.86),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="variables",j="OnLoadVariable",k="LVAR1",l="DISCOVERY_TIMEOUT",m="FLAG_MAIN",n="ADDING_NAME",o="PRESS_ENABLE",p="SEARCH_NAME",q="LOCATION_NAME",r="ZONE_NAME",s="ROOM_NAME",t="FLAG_UPDATE_LOCATION",u="CONF_LOCATION_WITH",v="ADDDING_TYPE",w="ACCOUNT_INFO",x="USER",y="TEST",z="SET_TEMP",A="CHOOSE_DATA_NAME",B="CURRENT_PERCENT",C="page",D="packageId",E="de71810e12894642a50de5b1bdaa4b33",F="type",G="Axure:Page",H="name",I="DevicesSettings",J="style",K="baseStyle",L="627587b6038d43cca051c114ac41ad32",M="pageAlignment",N="near",O="fill",P="fillType",Q="solid",R="color",S=0xFFFFFFFF,T="image",U="imageHorizontalAlignment",V="imageVerticalAlignment",W="imageRepeat",X="auto",Y="favicon",Z="sketchFactor",ba="0",bb="colorStyle",bc="appliedColor",bd="fontName",be="Applied Font",bf="borderWidth",bg="adaptiveStyles",bh="interactionMap",bi="diagram",bj="objects",bk="masters",bl="objectPaths";
+return _creator();
+})());
