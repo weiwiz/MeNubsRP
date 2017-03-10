@@ -992,7 +992,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
+  width:248px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1011,9 +1011,9 @@
 #u2571 {
   border-width:0px;
   position:absolute;
-  left:37px;
+  left:73px;
   top:11px;
-  width:320px;
+  width:248px;
   height:21px;
   font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
   font-weight:700;
@@ -1027,7 +1027,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
+  width:248px;
   word-wrap:break-word;
 }
 #u2573 {
@@ -1466,4 +1466,14 @@
   width:390px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u2601 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
