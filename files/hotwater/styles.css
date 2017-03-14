@@ -5317,3 +5317,13 @@
   width:283px;
   white-space:nowrap;
 }
+#u2627 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
