@@ -99,6 +99,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .html_button {
   text-align:center;
 }
@@ -184,6 +187,13 @@
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
+}
+.raised_button_disabled {
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
 }
 .hint_text {
   font-family:'Roboto';
